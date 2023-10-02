@@ -1,0 +1,11 @@
+{
+  "name": "getaccesstoken",
+  "version": "1.0.0",
+  "description": "Example that retrieves an access token from Edge Identity Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

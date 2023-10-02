@@ -1,0 +1,10 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "description": "Node samples showing some API access via intergation/client credentials.",
+  "scripts": {
+    "postinstall": "cd shared && npm install"
+  },
+  "author": "",
+  "license": "ISC"
+}
